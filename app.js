@@ -21,3 +21,7 @@ window.location="login.html"
 
   })
 }
+
+
+///CurrentUser
+var user=firebase.auth().currentUser
